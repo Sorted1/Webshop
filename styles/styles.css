@@ -1,0 +1,17 @@
+.main-panel {
+    border-left: 2px solid #9e357b;
+    border-right: 2px solid #b73259;
+    border-bottom: 2px solid #9e357b;
+    border-top: 2px solid #b73259;
+}
+
+.btn-discord {
+    background-image: linear-gradient(to bottom left, #9e357b, #b73259, #9e357b);
+    border-radius: 25px;
+    color: white;
+}
+
+.discord-widget{
+    width:20rem;
+    height:22.45rem;
+}
